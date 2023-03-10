@@ -1,13 +1,18 @@
 <div align="center">
-<img src="logo.png" width="200px" height="200Px">
+<img src="logo.png" width="200px" height="200px">
 </div>
-<h1 align="center">Hi 👋, I'm Salomon Tshobohwa</h1>
-<h3 align="center">A passionate frontend developer from Rwanda</h3>
+<h1 align="center">Hi there 👋, I'm Salomon 😎</h1>
+<h3 align="center">A passionate web developer and a </h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" width="400px" align="right">
 
-- 🌱 I’m currently learning **at microverse**
 
-- 📫 How to reach me **stshobohwa@gmail.com**
+<h3>About me</h3>
+- 
+
+- 🌱 I’m currently on ** Microverse** program, improving my skills
+
+- 📫 You can reach me at **stshobohwa@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
