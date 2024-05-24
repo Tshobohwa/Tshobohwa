@@ -2,7 +2,7 @@
   <img src="logo.png" width="150" height="150">
   
 # Hi there 👋, I'm Salomon 😎
-## A passionate web developer
+## A passionate software developer
 
 </div>
 
@@ -10,7 +10,7 @@
 
 |   |   |
 |---|---|
-| <ul><li>🌱 Currently improving my coding skills with Microverse program</li><li>💻 Passionate with problem solving using computer science</li><li>🕮 Always opened to learining</li><li>🔭 Love for science and innovation technologies</li></ul> | <img src="https://www.lambdatest.com/resources/images/news24.gif" width="400px"> |
+| <ul><li>🌱 I have completed my Microverse software development bootcamp program.</li><li>💻 Passionate with problem solving using computer science</li><li>🕮 Always opened to learining</li><li>🔭 Love for science and innovation technologie</li></ul> | <img src="https://www.lambdatest.com/resources/images/news24.gif" width="400px"> |
 
 ## Skills
 
