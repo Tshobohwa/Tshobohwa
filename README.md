@@ -28,3 +28,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tshobohwa&show_icons=true&theme=dracula)
 
+https://docs.google.com/document/d/1X7ZznbFMTgoSHc02WNsjXoZoK4uhI73WfACIqqSXMGc/edit?usp=sharing
